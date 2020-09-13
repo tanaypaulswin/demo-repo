@@ -1,3 +1,3 @@
 # Demo
 
-Some demo...
+Some Git commands demonstration! 
